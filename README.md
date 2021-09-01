@@ -29,6 +29,18 @@ Academic を利用したプロジェクトの作成は Academic 公式の git �
 - `cd ProjectName`
 - `git submodule update --init --recursive` でテーマを initialize する
 
+#### 3. サーバの起動
+
+- `hugo server -D`
+
+#### 4. コンテンツの追加
+
+- [ドキュメント](https://wowchemy.com/docs/content/#manually)参照
+
+#### 5. カスタマイズ
+
+- 公式ドキュメント参照
+
 ## Links
 
 - [Golang](https://golang.org/)
@@ -38,5 +50,6 @@ Academic を利用したプロジェクトの作成は Academic 公式の git �
 - [Hugo Themes Academic](https://themes.gohugo.io/themes/hugo-academic/)
 - [Hugo Academic GitHub](https://github.com/wowchemy/wowchemy-hugo-themes)
 - [Hugo Academic Demo](https://academic-demo.netlify.app/)
+- [wochemy Document](https://wowchemy.com/)
 
 ---
