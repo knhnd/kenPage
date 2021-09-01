@@ -2,13 +2,13 @@
 # An instance of the Tag Cloud widget.
 # Docs: https://wowchemy.com/docs/page-builder/
 widget: tag_cloud
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 120
+weight: 1.5
 title: Topics
 subtitle: ""
 
