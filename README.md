@@ -19,7 +19,15 @@ URL :
 
 #### 2. プロジェクトの作成
 
-- 任意のディレクトリで `hugo new site ProjectName`
+HUGO はデフォルトで様々なテーマが用意されている．  
+[themes.gohugo.io](https://themes.gohugo.io/) ですべての公式テーマを探すことができる．  
+今回は研究者向けのポートフォリオ作成に適した [Academic](https://themes.gohugo.io/themes/hugo-academic/) というテーマを採用する．
+
+Academic を利用したプロジェクトの作成は Academic 公式の git をクローンして編集する．
+
+- 任意のディレクトリで `git clone https://github.com/sourcethemes/academic-kickstart.git ProjectName`
+- `cd ProjectName`
+- `git submodule update --init --recursive` でテーマを initialize する
 
 ## Links
 
