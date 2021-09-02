@@ -41,15 +41,13 @@ Academic を利用したプロジェクトの作成は Academic 公式の git �
   - `menus.yaml` : トップメニューの設定
   - `params.yaml` : その他の設定
 
-#### 4. コンテンツの追加
-
-- [ドキュメント](https://wowchemy.com/docs/content/#manually)参照
-
-#### 5. カスタマイズ
-
-- 公式ドキュメント参照
-
 ## Deploy
+
+基本的に，公式でサポートされている or 推奨されている方法で行うのがベスト．
+
+- [公式ドキュメント](https://gohugo.io/hosting-and-deployment/hosting-on-netlify/)参照
+- [Netlify](https://app.netlify.com/teams/knhnd/overview) にデプロイ
+- ドキュメントどおりにやると爆速でデプロイできる
 
 ## Links
 
