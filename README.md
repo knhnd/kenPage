@@ -49,6 +49,8 @@ Academic を利用したプロジェクトの作成は Academic 公式の git �
 
 - 公式ドキュメント参照
 
+## Deploy
+
 ## Links
 
 - [Golang](https://golang.org/)
